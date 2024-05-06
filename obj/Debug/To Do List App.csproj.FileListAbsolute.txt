@@ -1,0 +1,10 @@
+F:\BMICALCULATOR\To Do List App\bin\Debug\To Do List App.exe.config
+F:\BMICALCULATOR\To Do List App\bin\Debug\To Do List App.exe
+F:\BMICALCULATOR\To Do List App\bin\Debug\To Do List App.pdb
+F:\BMICALCULATOR\To Do List App\obj\Debug\To Do List App.csproj.AssemblyReference.cache
+F:\BMICALCULATOR\To Do List App\obj\Debug\To_Do_List_App.ToDoList.resources
+F:\BMICALCULATOR\To Do List App\obj\Debug\To_Do_List_App.Properties.Resources.resources
+F:\BMICALCULATOR\To Do List App\obj\Debug\To Do List App.csproj.GenerateResource.cache
+F:\BMICALCULATOR\To Do List App\obj\Debug\To Do List App.csproj.CoreCompileInputs.cache
+F:\BMICALCULATOR\To Do List App\obj\Debug\To Do List App.exe
+F:\BMICALCULATOR\To Do List App\obj\Debug\To Do List App.pdb
